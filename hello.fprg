@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="win10"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-09-20 10:29:01 PM"/>
+        <attribute name="created" value="d2luMTA7REVTS1RPUC1PRUFMRzhBOzIwMjItMDktMjA7MTA6MjM6MjMgUE07Mjc2Nw=="/>
+        <attribute name="edited" value="d2luMTA7REVTS1RPUC1PRUFMRzhBOzIwMjItMDktMjA7MTA6Mjk6MDEgUE07MTsyODc3"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;Hello,world!&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

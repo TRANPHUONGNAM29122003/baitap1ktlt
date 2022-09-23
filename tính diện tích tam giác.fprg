@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="win10"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-09-20 11:14:28 PM"/>
+        <attribute name="created" value="d2luMTA7REVTS1RPUC1PRUFMRzhBOzIwMjItMDktMjA7MTA6NTA6MDcgUE07Mjc2OQ=="/>
+        <attribute name="edited" value="d2luMTA7REVTS1RPUC1PRUFMRzhBOzIwMjItMDktMjA7MTE6MTQ6MjggUE07MTsyODgx"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="a, b, s" type="Real" array="False" size=""/>
+            <output expression="&quot;Nhap a&quot;" newline="True"/>
+            <input variable="a"/>
+            <output expression="&quot;Nhap b&quot;" newline="True"/>
+            <input variable="b"/>
+            <assign variable="s" expression="0.5*a*b"/>
+            <output expression="&quot;dien tich la&quot;&amp; s" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
